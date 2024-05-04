@@ -7,7 +7,7 @@ import sys
 from utilities.file import log_file_name as log_file_name
 
 # NMEA Log File
-nmea_log_file_name = '/home/johnoraw/NMEA/logfiles/' + log_file_name('.nmea')
+nmea_log_file_name = '/home/johnoraw/ProjectP/logfiles/' + log_file_name('.nmea')
 # Open the file for append
 nmea_output_file = open(nmea_log_file_name, 'w', newline='')
 
