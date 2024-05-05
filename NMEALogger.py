@@ -16,7 +16,6 @@ print('***** NMEA Logger *****')
 print('Accepts NMEA from a serial port:')
 print('1. Logs raw data')
 
-
 try:
     with serial.Serial("/dev/ttySC1") as serial_port:
         serial_port.baudrate = 19200
