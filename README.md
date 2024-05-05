@@ -6,4 +6,4 @@ NTRIP data can be from
   
   https://johnoraw.gitbook.io/gnss/v/cors/local-cors-relay
   
-The current solution uses a [local CORS relay.]([https://duckduckgo.com](https://johnoraw.gitbook.io/gnss/v/cors/local-cors-relay).
+The current solution uses a [local CORS relay.](https://johnoraw.gitbook.io/gnss/v/cors/local-cors-relay).
